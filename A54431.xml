@@ -1,0 +1,632 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glorious glimmerings of the life of love, unity, and pure joy vvritten in Rome prison of madmen in the year 1660, but conserved as in obscurity until my arrival at Barbados in the year 1662, from whence it is sent the second time to the Lord's lambs / by J.P.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54431</idno>
+            <idno type="STC">Wing P1618</idno>
+            <idno type="STC">ESTC R3019</idno>
+            <idno type="EEBO-CITATION">13178270</idno>
+            <idno type="OCLC">ocm 13178270</idno>
+            <idno type="VID">98358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 433:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glorious glimmerings of the life of love, unity, and pure joy vvritten in Rome prison of madmen in the year 1660, but conserved as in obscurity until my arrival at Barbados in the year 1662, from whence it is sent the second time to the Lord's lambs / by J.P.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by John Perrot. Cf. DNB.</note>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98358:1" rendition="simple:additions"/>
+            <p>Glorious Glimmerings OF THE LIFE OF LOVE, UNITY, And pure JOY.</p>
+            <p>VVritten in <hi>Rome</hi> Priſon of Madmen in the Year 1660. but
+conſerved as in Obſcurity until my arrival at <hi>Bar<g ref="char:EOLhyphen"/>bados</hi> in the
+year 1662.</p>
+            <p>From whence it is ſent the ſecond time to the Lord's Lambs, By
+<hi>J. P.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98358:2"/>
+            <pb n="3" facs="tcp:98358:2" rendition="simple:additions"/>
+            <head>
+               <hi>JOHN</hi> the Priſoner for the Witneſs of the Power of
+GOD in the bleſſed Tribulation, Patience, Content and Peace of the Lamb, To
+the ſanctified heavenly Flock of Gods only and alone Paſture, in the
+Bowels, which is a daily Supplication and Interceſsion, moſt in<g ref="char:EOLhyphen"/>ternal
+Salutation, &amp;c.</head>
+            <p>THe Magnificency of the Moſt Mighty, and his Supremacy ſtands
+on high in Dominion over all things; So Omni<g ref="char:EOLhyphen"/>potent is his Eſſence in all
+his Purpoſes and Paſſages, that if he but thinketh of Viſitations,
+Nations are ſcattered before him; or, if He but ſteppeth among Kings and
+Princes in the Jealouſie of his Diſpleaſure, and ſpurneth with his foot
+at their Thrones, As the ſtorms of the Eaſt wind rooteth up the lofty trees
+of the Mountain of the Foreſt, even ſo of a ſudden becomes their Seats,
+beſides the foundation of their Palaces ſinks down as a Wall which the
+openings of an Earthquake hath ſwallowed in her hungry womb, who reduceth the
+banks of Pride and Munitions of Arro<g ref="char:EOLhyphen"/>gancy unto the deſtiny of a fall, into
+the gaping Gulf of the mouth of exceeding Miſery.</p>
+            <lg>
+               <lg>
+                  <l>Let Mountains now be bent to roar like Oceans Noiſes,</l>
+                  <l>And let the Rocks be rent, converted into Voices:</l>
+                  <l>For how can Stones but ſpeak, with Iron, Steel and
+Braſs:</l>
+                  <l>And <hi>Adamants</hi> but break at what is come to paſs?</l>
+                  <l>And ſound in one ſet hour forth ſhouts of his
+Renown?</l>
+                  <l>Whoſe glorious mighty Power Eternity doth crown?</l>
+                  <l>For hath not he made Owls, with Moles and Batts to ſing,</l>
+                  <l>Like as the chanting Fowls harmonious tunes in Spring?</l>
+                  <l>And Eagles he and ſhe made both to loath their prey,</l>
+                  <l>Two Turtle-Doves to be in <hi>Shilo's</hi> ſhining day?</l>
+                  <l>And hath not be the Bear, the Panther and the Lion,</l>
+                  <l>In ſubſtance made appear like Lambs in holy Sion?</l>
+                  <l>
+                     <pb n="4" facs="tcp:98358:3" rendition="simple:additions"/>And by his Mercy rich transform'd the
+Serpents ſting,</l>
+                  <l>Into a Vertue which from Death to Life doth bring.</l>
+                  <l>And made of Rocks a Fountain, and Stones refreſhing
+ſtreams,</l>
+                  <l>And of a Grain a Mountain, and Darkneſs Orion's Beams?</l>
+                  <l>And made of puddle mire, a Limpid Pond of pleaſure,</l>
+                  <l>Whence Fiſhes joyes, as fire, aſcend exceeding
+meaſure.</l>
+                  <l>He turn'd the hiddious Night into a glorious Day,</l>
+                  <l>And cut through clouds a Light, and Hills a Level way.</l>
+                  <l>And made a Seed a Sheaf, the Sick Sound, and Strong Weak;</l>
+                  <l>The Blind to ſee, and Deaf to hear, and Dumb to ſpeak.</l>
+                  <l>And Wine did purely ſever from mud, which man did
+mingle,</l>
+                  <l>Which is enough for ever to make all ears to tingle.</l>
+               </lg>
+               <lg>
+                  <l>Sure whilſt I meditate his glorious Wonders,</l>
+                  <l>The Heavens praiſe Him with the ſhouts of Thunders.</l>
+                  <l>The Stars with Hymns harmonious abound,</l>
+                  <l>And each bright Cloud like as a Trump doth ſound.</l>
+                  <l>The ſhowrs of Rain melodious Meſſage brings,</l>
+                  <l>And Dews deſcend with tunes of Cymbal ſtrings.</l>
+                  <l>The Rainbow's bent with Viol ſtrings above,</l>
+                  <l>Shooting her Muſick Shafts of <hi>Orions</hi> Love,</l>
+                  <l>Which fly through Heav'n with loud Organs ſound,</l>
+                  <l>Which opens Seas, deeps, yea and rents the ground.</l>
+               </lg>
+               <lg>
+                  <l>Theſe Influences dropping down like Showers,</l>
+                  <l>And piercing through my Vitals, over-powers</l>
+                  <l>My Soul with Solace, and on Wings doth carry</l>
+                  <l>Her up above, in Melody to marry</l>
+                  <l>Sweet <hi>Pleiades,</hi> who gathers with imbraces</l>
+                  <l>Her in his Arms of his Supernal Graces;</l>
+                  <l>Whoſe virtuous Breath, like Brooks, doth overflow</l>
+                  <l>His own Plantation in the Valleys low,</l>
+                  <l>Which makes the Seed ſpring up, and Plants to
+flouriſh,</l>
+                  <l>In all her Branches, which the Root doth nouriſh;</l>
+                  <l>And each green Bough with fruits of Joy doth bend</l>
+                  <l>At Bleſſings root, that Joyes may never end.</l>
+               </lg>
+               <lg>
+                  <l>Ah! thou the Building founded on the Rock,</l>
+                  <l>Whoſe Door Arts engines never can unlock.</l>
+                  <l>Nor can thy Scituation by fierce bluſters</l>
+                  <l>Be ſhaken; nor can Force which <hi>Pharoah</hi>
+muſters,</l>
+                  <l>
+                     <pb n="5" facs="tcp:98358:3" rendition="simple:additions"/>Drawn up with roaring Cannons for to
+prove</l>
+                  <l>The ſubſtance of thy Walls which Hell can't move,</l>
+                  <l>'Cauſe thy Inhabitants as Wind to waver;</l>
+                  <l>But they in war ſweet Songs to Lutes do quaver,</l>
+                  <l>Whom Combats crown with conqueſt by the might</l>
+                  <l>Of God, who for them doth the Battle fight;</l>
+                  <l>For he's Victorious, under whoſe bleſt Banner</l>
+                  <l>They are preſerved in ſecureſt manner;</l>
+                  <l>Who ruſhes in the Woods among the Trees,</l>
+                  <l>And makes his foes drop down like ſmother'd Bees.</l>
+               </lg>
+               <lg>
+                  <l>There's no Enchantments, nay, nor Wizards charms,</l>
+                  <l>Can Him withſtand, nor forcs of Hoſtile Armes;</l>
+                  <l>Who makes his Oppoſits in blood to wallow,</l>
+                  <l>And Earth to gape, them greedily to ſwallow.</l>
+                  <l>Wherefore ye Sons, your Inſtruments prepare,</l>
+                  <l>With ſtrained ſtrings, moſt exquiſitely rare,</l>
+                  <l>And ſweetly tun'd, with Muſes whet moſt ſharp,</l>
+                  <l>Our God's Renown, and Praiſe thereon to harp;</l>
+                  <l>Since from his hand, abundantly your Souls</l>
+                  <l>Have drunk Salvation up like Wine in bowls,</l>
+                  <l>And made you eat of Mercies, numberleſs,</l>
+                  <l>And cloath'd you with Compaſſions in diſtreſs:</l>
+                  <l>And let his Glory be your meditations,</l>
+                  <l>And his high Honour all your contemplations;</l>
+                  <l>For ſuch effects will ſure produce increaſe</l>
+                  <l>Of Joy and Gladneſs joyn'd to endleſs Peace.</l>
+               </lg>
+            </lg>
+            <p>And now the countenances of an illuſtrious Off-ſpring, and
+com<g ref="char:EOLhyphen"/>lineſs of a numberleſs train of the moſt enamoured beautiful
+Vir<g ref="char:EOLhyphen"/>gins, doth compaſs my waſte, as with the girdings of a cincture of
+raviſhment; to whom (though I have but the weakneſs of utte<g ref="char:EOLhyphen"/>rance, and
+feebleneſs of ſtammering expreſſions, yet with the ſin<g ref="char:EOLhyphen"/>cerity of a
+ſimple ſoul, and fervency of a burning ſpirit) I am im<g ref="char:EOLhyphen"/>pulſively
+conſtrained to vocifie, although but through the ſmalleſt Organ of the
+Quire, ſaying to my beloved, <hi>O ye enamoured Daugh<g ref="char:EOLhyphen"/>ters of Jeruſalem,
+and Sons of Sions King!</hi> in whom the Righteouſ<g ref="char:EOLhyphen"/>neſs of his Majeſty is
+revealed, and the Wiſdom of his Holineſs <pb n="6" facs="tcp:98358:4" rendition="simple:additions"/> from
+above, to ſeek an entrance of utterance towards you; I may wiſely firſt
+interrogate, ſaying, How may I utter? or, in what man<g ref="char:EOLhyphen"/>ner may I paraphraſe
+to render you an ample proportioned Remon<g ref="char:EOLhyphen"/>ſtrance of that Love of our only
+Father, which is locked up (as mine everlaſting debt, and your peculiar
+treaſure) in the moſt ſecret Cab<g ref="char:EOLhyphen"/>binet of my inner Cloſer, reſerved
+for the day of your ſervice: Ve<g ref="char:EOLhyphen"/>rily nothing can open it, as it is, beſides
+the Key of the Kingdom within you, nor declare it, as it ought to be ſpoken,
+but the tongue of the Learned which is given you; and being declared, not an
+ear can hear it, ſave that of the <hi>Lamb</hi> without ſpot; or, if it
+were print<g ref="char:EOLhyphen"/>ed on Parchment, or engraven on Braſs, not an eye could diſcern
+the perſpicuity of the Characters, ſo as to give a voice of fluentneſs of
+the liberal ſound thereof, except the tender Eye of the <hi>Turtle-Dove,</hi>
+whoſe Sight is a ſearcher into ſecrets; in all which you are known unto
+me; by whom I am perfectly received, and manifeſtly underſtood, as the
+Savory Voice of your Beloved, inſtantly and in<g ref="char:EOLhyphen"/>timately with you, in the
+deareſt conjunction of Eternity, which muſt never end: for as fuel which is
+caſt into flames, yeeldeth but the ſame natural effect of fervour; and as
+Gold that is melted with Gold, im<g ref="char:EOLhyphen"/>bodies in an entire weight, ſo am I in
+Unity with you: And as the Rivers of <hi>Canaan</hi> are four everlaſting.
+Witneſſes of conjunction, the one of Milk, the other of Honey, another of
+Wine, and the other of Oyl, imbodying in one Pond, and from thence running
+forth in one entire and irreſiſtable current, which no man can ſtop to
+extract the ſweetneſs thereof; Such, even ſuch, is the individual
+relation of my contract and betrothing with you; Yea, and as a buſhel of Salt
+which is caſt into the Sea, and diſſolved in her womb in the Weſtern
+part, and a Voice ſaith unto the Son of Man in the Eaſt, <hi>Ariſe, and
+go to the Weſt, and by juſt ſeparation, gather me the diſtinct drops of
+them corns of Salt which are diſſolv'd in the utmoſt quarter of the
+Weſtern Oceans: And he anſwereth him, ſaying, It is a thing altogether
+impoſſible for me to do.</hi> Such is my entrance in the bowels of your
+body, as a drop of Savour and a dram of Sweetneſs within you, in the Union,
+as blood to blood in your veins, and marrow to marrow in your bones: Yea,
+greater than this is my Covenant with you, with you, with you, <hi>O ye Seed of
+the Lord of lords! O ye Daughters of the King of kings, &amp; Sons of the
+moſt high God of gods,</hi> wherein I can never be ſeparated from you: For
+as the government of the night is given in contract to the 
+<pb n="7" facs="tcp:98358:4" rendition="simple:additions"/> the Moon, and as light is joyned to the Morning-Star,
+yea, and as the brightneſs of the day is imbodied in the Sun, ſo even ſo
+are your raviſhing breaſts my bed, where I frequently reſt without
+travels, and repoſe without ſenſe of ſorrows. And after all this,
+though I dwell in the Banqueting-houſe where the Dainties are ſpread before
+me, and am ſealed with the ſignet of Love, and have ſwallowed up the
+ſtreams of the Fountain of Charity and Affection, like forcible flouds;
+nevertheleſs, I find an inſufficiency in my ſelf, to tell you the
+greateſt things of the indiſſolvable Bonds of mine everlaſting Relation
+unto you, which verily is exceeding good both for you and for me, that we all
+as one may alwayes and evermore know our God alone, to be the wiſeſt of all
+Counſelors and Inſtructors, ſpeaking to us and teaching us his Oracles in
+the ſecrets, when the external Voice neither foundeth nor reacheth unto
+us.</p>
+            <p>And Oh! Oh thou <hi>Jeruſalem!</hi> the holy City of the Lord
+thy God, This is the Word of thy Creator unto thee, who hath raiſed thee of a
+little ſtone, unto the proportion of the moſt immovable Mountain in the
+Globe of the whole Earth, and made thy Walls an everlaſt<g ref="char:EOLhyphen"/>ing ſafety, and
+thy Gates the entrance of joyfulneſs: I the Lord, the Moſt Mighty, will yet
+make the Coverings of thy Habitations, as a Glory of the greateſt Dignity,
+and Crowns of the higheſt Royalty; for they ſhall be a reſplendency of a
+tranſcending Light, reaching into the Chambers of the ſeventh Heavens; and
+the glitterings of the very Pavements of thy Streets, ſhall be as torches
+like flaming Hills, giving a thorow light unto the profoundeſt deeps of the
+Oceans: For loe, there ſhall be no more Earth between thee &amp; the
+Chryſtal Seas, nor yet an Element between thee and the upper Heavens:
+Moreover the day cometh unto the fruits of thy bleſſed Womb, that among
+them the walls of thy reach ſhall be no more counted nor called a confine;
+for they ſhall infinite<g ref="char:EOLhyphen"/>ly run over the utmoſt limitation of the ſpace of
+place; and it ſhall be unto them which walk in thy ſtreets, that they
+ſhall but look thereon, and though running as in a race, yet ſhall read,
+perceive, and underſtand the wonders of thy Creator, which are hid in the
+deeps; and through the brightneſs of them which have an everlaſt<g ref="char:EOLhyphen"/>ing
+ſcituation over all waters, they ſhall ſee the playes of the Fiſhes,
+and the rejoycings of their ſcooles in a ſmooth Sea without ſtorms: For
+the Winds of the Winter ſhall ceaſe for ever, and a tranquility 
+<pb n="8" facs="tcp:98358:5" rendition="simple:additions"/> of the entire Body of all the Conſtellations,
+ſhal cover her face with<g ref="char:EOLhyphen"/>out end; and the dwellers of thy habitations ſhall
+call the name of thy ſtreets, <hi>The Proſpective-Glaſs of the Counſels
+of the Omnipotent Majeſty, which ſhews a perfection of fulneſs without
+the reſemblance or form of figures.</hi>
+            </p>
+            <p>Ah! thou Beauty of Beauties, on whoſe face the moſt
+illuſtrious Splendor of Splendors is ſpread; the very twinkling of thine
+eye, as the glimpſe of a countenance caſt over me, catches away my ſoul,
+as in the talants of Rapture, bearing me in a fiery Cloud. O God, let therefore
+the Raviſhments, wherewith She hath raviſhed me, be<g ref="char:EOLhyphen"/>come Raptures of
+Rentings of the ſouls of her Seed, in the ſuper<g ref="char:EOLhyphen"/>abundant ſolace of my
+ſpirit; and if my pleaſures be not of a ſuffi<g ref="char:EOLhyphen"/>ciency equivolent to their
+ſtatures, then let my body be broken as bread, and my bowels powred out as
+brooks, and let me walk hun<g ref="char:EOLhyphen"/>gry for the better things, and return as an empty
+pitcher to the <hi>Foun<g ref="char:EOLhyphen"/>tain of Waters,</hi> that yet in a little I may be a
+help to the leaſt, which are the dearling Children of her Womb.</p>
+            <p>Now, Oh ye Babes of the early Day! this I have to ſay unto you,
+in the life and ſpringing of the Light from on High, in which, through the
+bleſſed Birth, under the tediouſneſs of the travel thereof, you have
+obtained a nearer and dearer Calling of Childſhip, than that of an Adoption
+unto Heirſhip: Think ye (my dear and tender Siſters and Brethren) and
+gather the Ponders in your ſelves of the ſweet<g ref="char:EOLhyphen"/>eſt Banquets and
+choiceſt Wine, of the moſt mellodious Muſick, de<g ref="char:EOLhyphen"/>lightſomeſt
+Pleaſures, and greateſt Joyes, yea, wind your ſelves by Inſtruments,
+and line unto the deepeſt bottoms, and aſcend by the higheſt ladder of
+your choiceſt Contemplations, in the utmoſt ſtrength of every ſenſe
+of Joyes, And when you have ſaid to your ſelves, thou canſt not deſcend
+a degree lower, nor aſcend a ſtep high<g ref="char:EOLhyphen"/>er, then read in your ſelves the
+anſwer of your Beloved, which teſti<g ref="char:EOLhyphen"/>fieth to the face of faithfulneſs of
+every holy Life, As the firſt Hea<g ref="char:EOLhyphen"/>vens is above the loweſt earth, and the
+third Heavens above the fir<g ref="char:EOLhyphen"/>mament of the firſt, even ſo ſhall the
+ſenſe be, exceeding every ſenſe of that which now is, and all ſhall
+be enjoyed in the perfect joy of the poſſeſſion of Perpetuity for
+ever.</p>
+            <p>And therefore run my Darlings in the Race of Righteouſneſs,
+ſo as to reach the Mark with the Recompence, and comfort your ſelves and
+one another with theſe ſayings.</p>
+            <p>
+               <pb n="9" facs="tcp:98358:5" rendition="simple:additions"/>Come ye leaſt of Babes, and leap up
+into the tenderneſs of my boſome, that I may bear you up into the Mountain
+of <hi>Zion,</hi> which is waxed exceeding mighty in the midſt of your
+Mother, where you may turn on the top thereof, and behold the Rayes of her
+glory com<g ref="char:EOLhyphen"/>paſſing you: Ah roul your eye at the Motion of my finger, which
+pointeth at the emphaſis of a Remnant of her Ornaments and Fea<g ref="char:EOLhyphen"/>tures, that
+you may be refreſhed with a gracious gladneſs in her Glory: For her hair is
+the Rain of the Clouds which watereth the Plants in Spring, and maketh the buds
+of the Garden ſhoot forth into flowers, and gives the Roſes the fragrant
+odours; the beds of Spices have Myrrh in their dropings, and the ground of
+their plantation gives the fruits of her goodneſs, as a congratulating
+preſent to the Gardner; when ſhe combs her head, the Dews do fall, which
+refreſh the graſs of the field, and make the Earth to ſmile with
+Rejoycings, whilſt ſhe arrayes her with the Garments of green, trimming her
+with the Bloſſoms of fruitful trees, and attiring her with the Ornaments of
+Jewels, and Pendencies on Vine-branches: Her Face is as the <hi>Me<g ref="char:EOLhyphen"/>ridian
+Sun,</hi> which giveth light unto the ends of the Earth: Her Eye is as the
+Beams of the riſing of <hi>Orion,</hi> which pierceth thorow the crevices of
+the doors of obſcurity and darkneſs; Her Mouth is the door of the
+treaſures of Counſel, where Wiſdom and Life is con<g ref="char:EOLhyphen"/>conſerved; Her
+Tongue is the Key which unlocks the Graves, and opens the jaws of the Seas; She
+calleth with her Voice from the ſcituation of her Reſt, and they vomit up
+their dead before her; She breatheth on bones and ſculls, and they riſe
+upon their feet and walk in the ſtrength of revived men; Her Hands are the
+bountifulneſs of Bleſſings, which fill up the baskets of the Obedient;
+Her Arms are an endleſs compaſs of Compaſſions, which reach to the
+ranſomed with refreſhments; to the Sores of the wounded ſhe is a Salve of
+Salva<g ref="char:EOLhyphen"/>tion, for her Medicine is the multitude of Mercies; Her Breaſts are
+like Hills of refined Gold, which as fountains of unemptible ful<g ref="char:EOLhyphen"/>neſs, are an
+everlaſting ſtreaming of the the moſt precious Vertue of Life; he which
+layeth his head in her boſome, his hair becomes as a Wood of <hi>Pomegranate
+Trees,</hi> which are laden in a fruitful year, and the leaves of his boughs
+become dropping with Myrrh, as with ſhowers of the early Rain; She is
+cloathed with the ſpreadings of the Hea<g ref="char:EOLhyphen"/>vens, which have not a confine of
+ſpace; Her Mantle is wrought with all the Conſtellations, as with a needle
+by the hand of Art: She <pb n="10" facs="tcp:98358:6" rendition="simple:additions"/> is girded with the Rainbow
+of God, as the Child which is wrapped in ſwadling; She is laced with the cord
+of the Covenant, which is cal<g ref="char:EOLhyphen"/>led the <hi>Meridian Line;</hi> Her Skirts are
+trimmed with the ſpangles of Lightenings, which aſtoniſheth the Beaſts
+of the field; Ah! how amiable is her Countenance, and her Attirements,
+wherewith ſhe hath decked her ſelf! verily, of ſuch a tranſparent
+nature of the excellen<g ref="char:EOLhyphen"/>cy of illuſtrious Glory are they, that it's altogether
+unfathomable by the longeſt line of every comprehenſible capacity, to reach
+in the Currents of his Conceptions; and notwithſtanding her unparallel'd
+reſplendency, yet is ſhe totally vailed from the vultrous eye, as with
+Pillars of the blackeſt Clouds of moſt hiddeous darkneſs, and fire which
+burns within them.</p>
+            <p>But, O ye her firſt-fruits unto God! look, look into her
+ſuper<g ref="char:EOLhyphen"/>abounding Basket, and behold the Crop of her Cluſters of her
+Vine<g ref="char:EOLhyphen"/>yard, which are gathered in the firſt year of the Vintage, and caſt
+your eye into the houſe of her Winepreſs, that you may ſee the mul<g ref="char:EOLhyphen"/>titude
+and bleſſings of her increaſe, where the Fats are over<g ref="char:EOLhyphen"/>runing as floods,
+and the influences of Oyl as Rivers: And then after all this, yea, and much
+more than all this, which I have ſpread but as a napkin before you, ſay
+unto your ſouls within you, If the Glory of our Mother be ſo illuſtrious
+in her externals, and outer parts, Ah! What is her reſplendency within? If
+ſuch is her Hand, what is her heart? if ſuch is her boſome, what are her
+Bowels? if ſuch is her Viſage, what are her Vitals? if ſuch be the Sound
+of her Voice, Ah, what is the Solace of her Soul? and if ſuch is the radiancy
+of her Eye, what is the glory of her Spirit? Verily, though I ſee in the
+Vertue of her dignity an excellency and magni<g ref="char:EOLhyphen"/>ficency, yea, and glory
+potential, covered with all ſupremacy, which in the Spirit alſo is
+utterable within me, tranſcending all (as far as the Eaſt is from the
+Weſt) what ever my pen hath characterized, even in ſuch an ample,
+ſpatious, vaſt and infinitely unequalled manner, exceeding all Orations of
+the wiſeſt Orators, and Poems of the pro<g ref="char:EOLhyphen"/>foundeſt Poets, which are Sons
+of <hi>Achitophel's</hi> Seed; yet muſt I ceaſe for a ſeaſon, that the
+Lambs may learn and read the beauty of her raviſhing Viſiognomy within
+them; aſſuredly knowing that herewith the very life of my ſpirit (as a
+key of Oracles) ſhall fly hence (as with the Wings of Lightening) and pitch
+upon many, as the Dove of the Ark on the <hi>Olive Tree,</hi> and reſt in
+them as the Lord of an ever<g ref="char:EOLhyphen"/>laſting <pb n="11" facs="tcp:98358:6" rendition="simple:additions"/> Sabbath of
+Joy, which ſhall reveal unto them the riches of her Glory, yea, and draw them
+alſo (as it hath my tender Soul) into an endleſs and unſearchable
+labrynth of loſs, amidſt the numberleſs odoriferous Flowers of the
+over-ſpreading Pleaſures of her Life.</p>
+            <p>Yet thus may I interrogate my <hi>ſoul</hi> within me, ſaying,
+Canſt thou waſte thy fulneſs, or count the drops of thy bottle
+prodigal<g ref="char:EOLhyphen"/>ly ſpent (as water that is ſpilt on a ſtone) which is poured out
+upon ſo bleſſed a Seed?</p>
+            <p>And ſhe reſponſively reſolves with a <hi>Nay,</hi>
+ſaying, </p>
+            <lg>
+               <lg>
+                  <l>I never can in waſte ſpend this my treaſure</l>
+                  <l>On you, the Doves which are my boſomes pleaſure,</l>
+                  <l>Nay; neither can I ever empty'd be</l>
+                  <l>To you, which in God's Life are joyn'd to me;</l>
+                  <l>For ſure the more I love, the more increaſe</l>
+                  <l>Of Love in me doth flow, which cannot ceaſe</l>
+                  <l>Their running ſtreams of <hi>Shiloh's</hi> ſweet
+affection,</l>
+                  <l>Since Loves Flames are the Walls of my protection;</l>
+                  <l>I feel your Life, and therefore muſt retort</l>
+                  <l>On you, my love, whilſt I in Life exhort.</l>
+               </lg>
+               <lg>
+                  <l>Moſt dear Beloved, prize the ſpringing Grain,</l>
+                  <l>And unto ſuch Souls be as Clouds of Rain:</l>
+                  <l>And in this day let my experience preach</l>
+                  <l>Unto your life, and let my Witneſs reach</l>
+                  <l>In deeps profound, wherein you purely ought</l>
+                  <l>To prize a Babe ſurpaſſing every thought;</l>
+                  <l>Ah! prize a Babe, even as I prize indeed</l>
+                  <l>The very leaſt, as fruits of God's own Seed,</l>
+                  <l>And that you may eſteem a Lamb the better,</l>
+                  <l>Chain'd in Affection by Loves Lock and Fetter;</l>
+                  <l>Mark ye my Pilgrimage through craggy wayes,</l>
+                  <l>Since ſure not all have ſeen ſuch heavy dayes:</l>
+                  <l>For loe my ſpirit ſpeaks when I do ſtand.</l>
+                  <l>To turn and look about on ev'ry hand;</l>
+                  <l>I quickly ſee, as through an open Cleft,</l>
+                  <l>A Fox approached very nigh the left;</l>
+                  <l>And thence but caſting this my open ſight,</l>
+                  <l>A ravenous Wolf appeareth at my right;</l>
+                  <l>
+                     <pb n="12" facs="tcp:98358:7" rendition="simple:additions"/>Before a Lyon, and behind a
+Bear,</l>
+                  <l>Which fills my ſoul with moſt exceeding fear;</l>
+                  <l>Beſides, on th' ground a ſubtile Serpent creeping,</l>
+                  <l>And poyſonous Viper, Crocadile-like, weeping;</l>
+                  <l>Aloft a Dragon ſoaring in the Air,</l>
+                  <l>I'm ſure, enough to make all fleſh deſpair.</l>
+                  <l>Thus I am compaſſed in every hour,</l>
+                  <l>Yet ſav'd in God by his Almighty Power:</l>
+                  <l>And therefore I do prize a Lamb in love,</l>
+                  <l>As God's own Treaſure, ſeal'd in Heavens above:</l>
+                  <l>Which Fruits of love, our God from all requires;</l>
+                  <l>And ſuch ſweet Streams run joynt with my deſires.</l>
+               </lg>
+            </lg>
+            <p>And all dear Plants of God, we muſt be all very low and hum<g ref="char:EOLhyphen"/>ble
+before our Father, and honour Him with fear &amp; trembling, and
+thankſgiving, in all ſtates and conditions, and be very ſingle, ſim<g ref="char:EOLhyphen"/>ple
+and innocent in his pure Eye, and exceeding tender to one another in the
+Pitties wherewith he hath been merciful unto us, and covered us with his own
+Compaſſions; and take occaſions in the Life of Love to ſpeak to one
+another, and viſit one another in the holy Bowels with the Greeting and
+Salutation of the holy Kiſs, where the World reacheth not; for in this
+Spirit, we know that we are of God, and the whole World lyeth in Wickedneſs,
+which ſtand in the enmity to this Love, which is the manifeſt Power of God
+revealed in us, which delivereth us from all evil; for in the Love we witneſs
+the Strength which takes up and bears the Croſs, to the crucifying of the
+<hi>Old Man</hi> with all his luſts and af<g ref="char:EOLhyphen"/>fections, whereby we receive the
+Teſtimony of the true Faith and in it do alſo witneſs, in our own
+ſpirits, the taking up of a Life in the Heavenly Places of the immortal Joy,
+which nothing is able to bereave us of, having (by abundant bleſſed
+Experiences) the aſſured knowledge, <hi>That the more our Adverſaries
+wreſtle to deprive us of the Bleſſing and Inheritance</hi> (for the
+Revelation of the moſt exceeding Mercies of our Father to us, through the
+proſperity of the Life and Glory of his Power in us) <hi>the more are we
+ſtrength<g ref="char:EOLhyphen"/>ned in Him;</hi> that alſo by it, if happily our enemies may come
+to ſee the certainty of the Lord on our ſide, and thereby be con<g ref="char:EOLhyphen"/>verted
+unto the Grace of his Goodneſs, and ſaved by the incom<g ref="char:EOLhyphen"/>prehenſible 
+<pb n="13" facs="tcp:98358:7" rendition="simple:additions"/> Work of his Wiſdom, in the pitties of the boſome
+of his Mercies.</p>
+            <p>Ah my Beloved! This is the Love indeed wherewith you are beloved
+of the Father, and of me his poor, needy, hungry and thirſty Servant, which
+opens unto you and in you the Doors of the twelve Houſes of the Heavens which
+you know; The firſt is <hi>Judgment</hi> and <hi>Fearfulneſs;</hi> the
+ſecond, <hi>Humility</hi> and <hi>Lowlineſs;</hi> the third,
+<hi>Meekneſs</hi> and <hi>Mercifulneſs;</hi> the fourth,
+<hi>Temperance</hi> and <hi>Savourineſs;</hi> the fifth, <hi>Patience</hi>
+and <hi>Setledneſs;</hi> the ſixth, <hi>Hope</hi> and
+<hi>Reſolvedneſs;</hi> the ſeventh, <hi>Faith</hi> and
+<hi>Perſeverance;</hi> the eighth, <hi>Peace</hi> and <hi>Quietneſs;</hi>
+the ninth, <hi>Thanksgiving</hi> and <hi>Remembrance;</hi> the tenth,
+<hi>Prayer</hi> and <hi>Watchfulneſs;</hi> the eleventh,
+<hi>Glorification</hi> and <hi>Praiſes;</hi> and the twelfth,
+<hi>Content</hi> and <hi>Fulneſs.</hi>
+            </p>
+            <p>Now therefore all ye Lambs of the Flock of the Shepherd's
+Paſture, look well into that houſe in which you are made inha<g ref="char:EOLhyphen"/>bitants, and
+by the Virtue of Covenant is yours, as a proper poſſeſſion, that you
+may ſee the glory of the ſign thereof, which ſhews you the perfect Signs
+of the Times; yea, and look again and again, and lo the Canopy of Gladneſs,
+together with the Cur<g ref="char:EOLhyphen"/>tains of Joyes, and Bed of Pleaſures, in each of them
+is an <hi>im<g ref="char:EOLhyphen"/>menſity</hi> too vaſt for your aſpect to reach the utmoſt
+thereof, where<g ref="char:EOLhyphen"/>by you may perceive ſomething of the incomprehenſible
+Renown; <hi>(Viz.)</hi> What an honour of honours is it to be one (though but
+as the leaſt) in the Houſe of the Lord, wherein the World with its
+fulneſs ſtands intirely in ſubjection to a thought!</p>
+            <p>Ah! the Dominion, yea the glorious Dominion of Love which is
+obtained in the Acts of his Championiſm! Surely the ſence of his Strength
+is able to catch you into Raptures, and over<g ref="char:EOLhyphen"/>come your ſouls in the Heavens
+of his Supream Authority, and through the conſtriction and violence of
+Raviſhments to make you cry out with the loudeſt lift-up voices, ſaying,
+<hi>Hail, O Jeru<g ref="char:EOLhyphen"/>ſalem, and Help, O ye Inhabitants of her City, for the
+forcibleneſs of Love is upon me.</hi> Oh! Oh! Oh! <hi>Love</hi> is the
+ſtrongeſt, <hi>Love</hi> is the powerfuleſt even of all the Supernal
+Hoſts; yet my Beloved, you ſhall all remember in the dayes of the Floods,
+when the Banks of your Rivers are filled up to the brims, that then even in
+them dayes you ſhall in no wiſe ſay, <hi>How can my Love be greater,
+ſeeing my Current runs brim-full?</hi> but rather contain the 
+<pb n="14" facs="tcp:98358:8" rendition="simple:additions"/> recordance as the Memorial of a Covenant in you,
+that the ſtreams of your Rivers have the paſſage of their influences in
+the Valleys beneath the riſings of the Hills, and therefore ſhall
+thirſtily wait for your Floods (through the rentings open of the Fountains of
+the greateſt Deeps) to ſurmount, until they have covered the Hills above
+you; yea procelſively to aſcend as in the higheſt heaps over the
+loftieſt Mountains of the Earth, that the Ark of Salva<g ref="char:EOLhyphen"/>tion may ſwim on
+tops of all, without danger of ſhipwrack by bulgings; and yet wait without
+weariſomneſs in the ſenſibleneſs of their Movings, until they are
+mounted from a ſtream in the Valleys, to have reached the Upper Waters which
+are lockt with<g ref="char:EOLhyphen"/>in the Windows of the Heavens, that the Ark of your Reſt may
+ſafely arrive to anchor in the Haven of <hi>Zebulon;</hi> And ſo let this
+caſt you into the boſoms of Affection, and become a Covenant of Unity in
+the vertue of an eternal Oath in the bottoms of the bo<g ref="char:EOLhyphen"/>wels of each other. And
+ſo the everlaſting God of Heaven and Earth enrich you with the Treaſures
+of the Love of his own Life, which is Incomprehenſible and Infinite, and
+ſeal you in ſuch a nearneſs of relation and dearneſs of affinity in the
+holy Unity in ſuch an inward manner, as that always you may ſtand at the
+moti<g ref="char:EOLhyphen"/>on of a moment, prepared as ready Sacrifices to offer your lives for the
+Brethren; and the Crown of Immortal Glory of the Father be your recompence in
+his Kingdom of Life, <hi>Amen.</hi>
+            </p>
+            <p>Daily are my Prayers encreaſed for you, in all quarters of the
+Earth, and the abundance of my Spirit doth often miniſter amongſt many.</p>
+            <p>Finally, dear Lambs, Wait all to receive the Spirit of
+Suppli<g ref="char:EOLhyphen"/>cation, and of Prayer, and in that ſame holy Spirit preſent me in
+your living breathings to the pittiful God of all our Mercies: for his eternal
+Eye doth well know that I am weak and poor, having no ſtrength but from him,
+nor wiſdom without him, but in him: And therefore again, I ſay (in the
+importunity of a be<g ref="char:EOLhyphen"/>ſeeching ſoul) pray without ceaſing for your poor
+bruiſed and often oppreſſed Brother. And O ye holy Witneſſes of the
+Lord our Righteouſneſs, my pure and living Brethren and Siſters, the dear
+ſympathized ſuffering Priſoners! my reins are a current and ſtream
+running forth with willingneſs towards you, in the ten<g ref="char:EOLhyphen"/>dereſt
+compaſſions of God's Life of Love, which melts my bow<g ref="char:EOLhyphen"/>els, 
+<pb n="15" facs="tcp:98358:8" rendition="simple:additions"/> caſting mine eye of remembrance upon you: Ah! it
+is your Faithfulneſs, yea, it is your Integrity in the Covenant of
+Righ<g ref="char:EOLhyphen"/>teouſneſs that is the Vertue which reacheth me at this diſtance,
+renting my ſoul for your ſakes, to whom it is not onely given to believe,
+but alſo to ſuffer for the Witneſs of the Power of the moſt High:
+Verily your Crown muſt be certain on your head, and a Fountain of the
+Treaſures of Life muſt aſſuredly compaſs you as an everlaſting
+Reward of your Service. For he is infal<g ref="char:EOLhyphen"/>libly juſt and righteous, and his
+Covenant is Faithfulneſs, <hi>Amen,</hi> who hath called and drawn you to
+glorifie him in the vertuous ſanctified Life of your bleſſed Tryals and
+Tribulations: for no man can ſuffer for God for naught; but his
+Righteouſneſs will be a Recompence unto him.</p>
+            <p>O my deareſt Companions, I am moſt inwardly in the neareſt
+feeling with you, and am made a true partaker of your con<g ref="char:EOLhyphen"/>flicts: beſides,
+the God of our ſuſtentation knoweth with how many tears, ſighs and
+groans, with numberleſs prayers, and holy fervent requeſts and ſpiritual
+deſires I have remembred you, and ſtill do ſupplicate that in the
+Faithfulneſs you may all be kept to the end, and continually exerciſed in
+the ſpirit of thankſgiving and praiſe to God for all things, and to dwell
+in the life and po<g ref="char:EOLhyphen"/>wer of Contentation, which is a Manſion of moſt infinite
+lati<g ref="char:EOLhyphen"/>tude, where a perfect fulneſs of ſtrength is partaked of and
+poſ<g ref="char:EOLhyphen"/>ſeſſed, which gives victory over all the world.</p>
+            <p>Summarily, The ſound of <hi>New-England</hi> Sufferers, and the
+fame of the <hi>Indian Martyrs</hi> in the Continent of <hi>Virginia,</hi> hath
+pierced to my bottoms within me: O let it be as a Razor's edge to our
+de<g ref="char:EOLhyphen"/>ſires, and as a Spur like a Spear in our ſides, pricking us on in the
+eagerneſs and ſwiftneſs of our race, that we who have ſtarted and put
+on at firſt and ran in the courſe before them, may not in the end fall
+ſhort of the Glory of their Crown, which is great in the Kingdom upon
+them.</p>
+            <p>So all dear Plants of God's Renown in all Quarters of the Earth,
+the moſt Mighty be alwayes on your ſide, and his Supre<g ref="char:EOLhyphen"/>macy at your right
+hand, and his eternal Omnipotency ſave you from all evil, <hi>Amen.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
